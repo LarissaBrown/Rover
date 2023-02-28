@@ -1,0 +1,28 @@
+[
+    {
+        "name": "dog leash",
+        "price": "30",
+        "_id": "1",
+        "description": "Use this to guide your dog ."
+    },
+    {
+        "name": "collapsible dog bowl",
+        "price": "20",
+        "_id": "2",
+        "description": "Use this to give your dog water when out and about."
+    },
+    {
+        "name": "doggie sweater",
+        "price": "40",
+        "_id": "3",
+        "description": "Use this to keep your dog cozy."
+    },
+    {
+        "name": "doggie treats",
+        "price": "10",
+        "_id": "4",
+        "description": "Use this to tide your doggy over until dinnertime."
+    }
+]
+
+
